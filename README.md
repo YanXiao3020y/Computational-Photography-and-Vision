@@ -1,5 +1,7 @@
 **Overview**
 
+Jan - Mar 2023
+
 The goal of these five assignments is to develop fundamental image
 processing and computer vision techniques using Python. They cover a
 range of tasks including basic array operations, image manipulation, and
